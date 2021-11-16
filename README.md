@@ -1,2 +1,3 @@
 # musicwallet
-musicwallet created with HTML and CSS and javascript 
+musicwallet webpage created with HTML and CSS and javascript.
+some important points will be added soon.
